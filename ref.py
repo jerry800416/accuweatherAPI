@@ -2,7 +2,6 @@
 
 # db_connect
 db_info = ()
-# db_info = ()
 db_info2 = ()
 select_db_name = "Gridwell"
 insert_db_name = "DTR_realtime_acc"
